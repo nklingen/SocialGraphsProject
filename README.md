@@ -1,6 +1,6 @@
-# SocialGraphsProject
-DTU Social Graphs Project
+# The Office - 02805 Social Graphs and Interactions Project
 
+## Part 1
 The first part of the final project is a 2 minute movie, which should explain the central idea/concept that you will investigate in your final project. You're making the movie so that the TAs, Anna, and I can give you feedback, and so that other groups can 'steal' your ideas (and you can steal ideas from them). The movie must contain the following:
 
 - [ ] An explanation of the central idea behind your final project (what is the idea?, why is it interesting?)
@@ -21,3 +21,8 @@ But other than that, there are no constraints on the video format. And we do app
 
 Handing in the assignment: Simply upload your video to youtube (the higher the resolution the better) and submit the link to peergrade.
 Note that since Project Assignment A now requires significant data-work, you have 2 weeks to create the video presentation.
+
+__ 
+
+## Part 2
+...
