@@ -60,4 +60,32 @@ for page_title in page_titles:
 
         # remove specific subcategories which are not characters themselves
         elif name not in filter_subcategories:
+<<<<<<< Updated upstream
             get_character_text(name)
+=======
+            print(name)
+
+    # with open(f'characters/{character}.txt', 'w') as f:
+    #     json.dump(json_text, f)
+
+
+
+baseurl = "https://theoffice.fandom.com/api.php?"
+action = "action=query"
+list_ = "list=categorymembers"
+dataformat ="format=json"
+
+queries = []
+for category in categories:
+    cmtitle = f"cmtitle=Category:{category}"
+    query = "{}{}&{}&{}&{}&{}&rvslots=*".format(baseurl, action, list_, cmtitle, cmlimit, dataformat)
+    queries.append(query)
+
+for category, query in zip(categories,queries):
+    response = urllib.request.urlopen(query)
+    data = response.read()
+    text = data.decode('utf-8')
+    
+    json_text = json.loads(text)
+    
+>>>>>>> Stashed changes
