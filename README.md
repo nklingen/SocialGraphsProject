@@ -8,7 +8,7 @@ The first part of the final project is a 2 minute movie, which should explain th
   - [Dunderpedia: The Office Wiki](https://theoffice.fandom.com/wiki/Main_Page)
   - [Every line from the office, including deleted scenes](https://docs.google.com/spreadsheets/d/18wS5AAwOh8QO95RwHLS95POmSNKA2jjzdt0phrxeAE0/edit#gid=747974534)
   - Character Relations based on number of lines exchanged
-  - [Kaggle Dataset of viewership and ratings](https://www.kaggle.com/andreal314159/the-office-analysis-for-datacamp/data.) What are the ratings over time ? How did michael leaving affect the show ratings ?
+  - [Kaggle Dataset from IMDB of Viewership and Ratings](https://www.kaggle.com/andreal314159/the-office-analysis-for-datacamp/data.) What are the ratings over time ? How did michael leaving affect the show ratings ?
 - [ ] An outline on the elements you'll need to get to your goal & the implementation plan..
 - [ ]  A walk-through of your preliminary data-analysis, addressing
   - What is the total size of your data? (MB, number of pages, other variables, etc.)
