@@ -1,6 +1,6 @@
-# SocialGraphsProject
-DTU Social Graphs Project
+# The Office - 02805 Social Graphs and Interactions Project
 
+## Part 1
 The first part of the final project is a 2 minute movie, which should explain the central idea/concept that you will investigate in your final project. You're making the movie so that the TAs, Anna, and I can give you feedback, and so that other groups can 'steal' your ideas (and you can steal ideas from them). The movie must contain the following:
 
 - [ ] An explanation of the central idea behind your final project (what is the idea?, why is it interesting?)
@@ -9,8 +9,9 @@ The first part of the final project is a 2 minute movie, which should explain th
     - Network of characters by reference on their wikipedia page 
   - [Every line from the office, including deleted scenes](https://docs.google.com/spreadsheets/d/18wS5AAwOh8QO95RwHLS95POmSNKA2jjzdt0phrxeAE0/edit#gid=747974534)
     - Character Relations based on number of lines exchanged
-  - [Kaggle Dataset from IMDB of Viewership and Ratings](https://www.kaggle.com/andreal314159/the-office-analysis-for-datacamp/data.) 
+  - [Kaggle Dataset from IMDB of Viewership and Ratings](https://www.kaggle.com/andreal314159/the-office-analysis-for-datacamp/data) 
     - What are the ratings over time ? 
+  - [Season-wise summary of IMDB Ratings and Votes for each episode](https://chart-studio.plotly.com/~swarnitav08/17/#/code)
     - How did michael leaving affect the show ratings ?
 - [ ] An outline on the elements you'll need to get to your goal & the implementation plan..
 - [ ] A walk-through of your preliminary data-analysis, addressing
@@ -21,3 +22,8 @@ But other than that, there are no constraints on the video format. And we do app
 
 Handing in the assignment: Simply upload your video to youtube (the higher the resolution the better) and submit the link to peergrade.
 Note that since Project Assignment A now requires significant data-work, you have 2 weeks to create the video presentation.
+
+__ 
+
+## Part 2
+...
