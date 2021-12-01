@@ -80,11 +80,8 @@ Later, he drives to Philadelphia to give cupcakes to Daryl and Jim. {{Episode|Th
 {{Appearances3|11=voice|14=yes}}
 {{Appearances6|17=yes}}
 {{Appearances7|6=yes|17=yes|18=yes}}
-* "[[Tallahassee]]"
-* "[[After Hours]]"
-* "[[Test the Store]]"
-* "[[Last Day in Florida]]"
-* "[[The Farm]]"
+{{Appearances8|15=yes|16=yes|17=yes|18=yes}}
+{{Appearances9|17=yes}}
 
 {{Main Characters}}
 [[Category:Characters]]
