@@ -1,4 +1,4 @@
-{{Character|image = Trevor1.jpg|name = Trevor Bortmen|first appearance = [[The Target]]|last appearance = [[Finale]]|portrayed by = Chris Gethard}}'''Trevor Bortmen'''<ref>[https://www.nbc.com/the-office/photos/resume-rejects/609571|The Office Resume Rejects]</ref> is a friend of [[Dwight Schrute|Dwight]] who comes to his aid in [[The Office]].
+{{Character|image = Trevor1.jpg|name = Trevor Bortmen|first appearance = [[The Target]]|last appearance = [[Finale]]|portrayed by = Chris Gethard}}'''Trevor Bortmen'''<</> is a friend of [[Dwight Schrute|Dwight]] who comes to his aid in [[The Office]].
 
 
 
@@ -8,7 +8,7 @@ Dwight and [[Angela Martin|Angela]] hire him as a hitman to take out [[Oscar Mar
 ==Interview==
 Dwight interviews Trevor for junior salesman and Trevor reveals his ineptitude in the interview.{{9x13}}
 
-== Trivia<ref>[https://www.nbc.com/the-office/photos/resume-rejects/609571|The Office Resume Rejects]</ref> ==
+== Trivia<</> ==
 
 * Trevor lives at 13927<small>1/2</small> Curie Way in [[Scranton]].
 * His email is Trevsterincog11@geocities.com
@@ -16,6 +16,6 @@ Dwight interviews Trevor for junior salesman and Trevor reveals his ineptitude i
 * He went to Wilkes-Barre High School from 1991-1997.
 
 ==References==
-<references/>
+<erences/>
 [[Category:Characters]]
 [[Category:Males]]

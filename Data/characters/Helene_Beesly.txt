@@ -1,5 +1,5 @@
 
-{{Quote|text=You know what, I'm gonna start dating her [Helene] even harder.|saidby=Michael Scott to Pam Beesly|reference=[[The Lover|The Lover]]}}{{Character|name = Helene Beesly
+{{Quote|text=You know what, I'm gonna start dating her [Helene] even harder.|saidby=Michael Scott to Pam Beesly|erence=[[The Lover|The Lover]]}}{{Character|name = Helene Beesly
 |image = [[File:HeleneBeesly2.png|200px]]
 |gender = Female
 |born = November 1951 (age 69)
@@ -66,7 +66,7 @@ Months later, Helene called Pam at work to inform her that Cece had been infecte
 *[[Lice]] (voice only)
 
 ==References==
-<references/>
+<erences/>
 
 {{Main Characters}}
 [[Category:Characters]]

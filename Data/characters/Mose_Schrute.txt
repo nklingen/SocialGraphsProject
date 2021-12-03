@@ -1,4 +1,4 @@
-{{Quote|text=Mose is my cousin and he lives here. He will always be my best friend. Unless things go well with Ryan today in which case, I won t hang out with Mose so much anymore.|saidby=Dwight K. Schrute|reference=[[Initiation|Initiation]]}}{{Character
+{{Quote|text=Mose is my cousin and he lives here. He will always be my best friend. Unless things go well with Ryan today in which case, I won t hang out with Mose so much anymore.|saidby=Dwight K. Schrute|erence=[[Initiation|Initiation]]}}{{Character
 |image = [[File:MoseSchrute_.jpg|250px]]
 |name = Mose Schrute
 |alias = Fear
@@ -69,7 +69,7 @@ As Dwight waits on the porch for his cousin Zeke to get there, Mose runs around 
 As Angela has her bachelorette party at Schrute Farms, Mose watches from the window and eventually kidnaps her. Dwight reveals that this is a tradition in which he must buy the group a beer for Mose to return his bride. Mose reveals that he had her in his trunk and runs off as Angela curses him out. Mose can be seen at Dwight and Angela's wedding, longingly looking at a scarecrow dressed up as a woman ([[Finale]]).
 
 ==Trivia==
-* Mose is named after Mose from the reality television show ''{{W|Amish in the City}}''. Writer [[Michael Schur]] (who portrays Mose Schrute) watched the show, and the name stuck with him. Schur did not expect Mose to become a recurring character. He assumed he would be used in a photo and forgotten.{{OfficeLadiesCitation009|07:28}} Schur donates to charity all of the money he makes from portraying Mose. "The whole thing was so absurd I felt I couldn't keep the money."<ref name="tvg-1065195">Schneider, Michael. "[10 Things You Didn't Know About NBC's The Office https://www.tvguide.com/news/10-things-office-nbc-1065195/]", ''TV Guide'', May 9, 2013.</ref>
+* Mose is named after Mose from the reality television show ''{{W|Amish in the City}}''. Writer [[Michael Schur]] (who portrays Mose Schrute) watched the show, and the name stuck with him. Schur did not expect Mose to become a recurring character. He assumed he would be used in a photo and forgotten.{{OfficeLadiesCitation009|07:28}} Schur donates to charity all of the money he makes from portraying Mose. "The whole thing was so absurd I felt I couldn't keep the money."<</>
 * Dwight claims that Mose does not know how to use a phone ([[Lecture Circuit Part 2|Lecture Circuit]]).
 * Mose is one of Dwight s 70 cousins.
 * As Dwight discovers that Angela's baby could be a Schrute, he says that Mose does not know anything about sex, so the baby could only be from Dwight himself.
@@ -106,7 +106,7 @@ Mose Schrute.jpg
 </gallery>
 
 ==References==
-<references/>
+<erences/>
 
 {{Main Characters}}
 [[Category:Characters]]

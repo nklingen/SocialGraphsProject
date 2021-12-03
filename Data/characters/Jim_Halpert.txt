@@ -40,7 +40,7 @@ Unnamed Baby Halpert <small>(brother's new baby)</small><br>
 His character serves as the intelligent, mild-mannered straight man role to Michael, although it is also defined by a rivalrous pranking on fellow salesman [[Dwight Schrute]] and a romantic interest in receptionist [[Pam Beesly]], whom he begins dating in the fourth season, marries in the sixth, and has children with in the sixth and eighth. Jim's coworker, [[Andy Bernard]], who transferred from the Stamford branch, often calls him by the nickname "Big Tuna".
 
 ==Biography==
-Jim Halpert was born on October 1, 1978, to [[Gerald Halpert|Gerald]] and [[Betsy Halpert]]. He has two brothers; [[Pete Halpert|Pete]], who lives in Boston, and [[Tom Halpert|Tom]], who lives in New Jersey. They both share Jim's general love of pranks but have come across as unpleasant and they somewhat bully their little brother. Jim's parents presumably live in Scranton, as well as his sister [[Larisa Halpert|Larisa]] and best friend Alan Murphy, who are listed as his emergency contacts at Dunder Mifflin. While Pete and Tom have been seen on the show a few times, Larisa has not.<ref name="The Fight">{{cite episode
+Jim Halpert was born on October 1, 1978, to [[Gerald Halpert|Gerald]] and [[Betsy Halpert]]. He has two brothers; [[Pete Halpert|Pete]], who lives in Boston, and [[Tom Halpert|Tom]], who lives in New Jersey. They both share Jim's general love of pranks but have come across as unpleasant and they somewhat bully their little brother. Jim's parents presumably live in Scranton, as well as his sister [[Larisa Halpert|Larisa]] and best friend Alan Murphy, who are listed as his emergency contacts at Dunder Mifflin. While Pete and Tom have been seen on the show a few times, Larisa has not.< name="The Fight">{{cite episode
 	|title=The Fight
 	|episodelink=The Fight (The Office episode)
 	|credits= 
@@ -48,7 +48,7 @@ Jim Halpert was born on October 1, 1978, to [[Gerald Halpert|Gerald]] and [[Bets
 	|series=The Office
         |serieslink=The Office (US TV series)
         |network=NBC
-	}}</ref> He has a niece, Vanessa,<ref name="Employee Transfer">{{cite episode
+	}}</> He has a niece, Vanessa,< name="Employee Transfer">{{cite episode
 	|title=Employee Transfer
 	|episodelink=Employee Transfer (The Office)
 	|credits= 
@@ -56,7 +56,7 @@ Jim Halpert was born on October 1, 1978, to [[Gerald Halpert|Gerald]] and [[Bets
 	|series=The Office
         |serieslink=The Office (US TV series)
         |network=NBC
-	}}</ref> and a nephew old enough to play T-ball.<ref name="Weight Loss">{{cite episode
+	}}</> and a nephew old enough to play T-ball.< name="Weight Loss">{{cite episode
 	|title=Weight Loss
 	|episodelink=Weight Loss (The Office)
 	|credits= 
@@ -64,7 +64,7 @@ Jim Halpert was born on October 1, 1978, to [[Gerald Halpert|Gerald]] and [[Bets
 	|series=The Office
         |serieslink=The Office (US TV series)
         |network=NBC
-	}}</ref> In "[[Branch Wars]]," while he is not specific on which brother he is referring to, he states that his brother's wife just had another baby.<ref name="Branch Wars">{{cite episode
+	}}</> In "[[Branch Wars]]," while he is not specific on which brother he is erring to, he states that his brother's wife just had another baby.< name="Branch Wars">{{cite episode
 	|title=Branch Wars
 	|episodelink=Branch Wars
 	|credits= 
@@ -72,8 +72,8 @@ Jim Halpert was born on October 1, 1978, to [[Gerald Halpert|Gerald]] and [[Bets
 	|series=The Office
         |serieslink=The Office (US TV series)
         |network=NBC
-	}}</ref> 
-Jim enjoys [[Wikipedia:Cycling|cycling]],<ref name="Email Surveillance">{{cite episode
+	}}</> 
+Jim enjoys [[Wikipedia:Cycling|cycling]],< name="Email Surveillance">{{cite episode
 	|title=Email Surveillance
 	|episodelink=Email Surveillance
 	|credits= 
@@ -81,7 +81,7 @@ Jim enjoys [[Wikipedia:Cycling|cycling]],<ref name="Email Surveillance">{{cite e
 	|series=The Office
         |serieslink=The Office (US TV series)
         |network=NBC
-	}}</ref> and, as he reveals in a deleted scene from "[[Take Your Daughter to Work Day]]," at times will babysit [[Toby Flenderson]]'s daughter, Sasha.<ref name="Take Your Daughter to Work Day">{{cite episode
+	}}</> and, as he reveals in a deleted scene from "[[Take Your Daughter to Work Day]]," at times will babysit [[Toby Flenderson]]'s daughter, Sasha.< name="Take Your Daughter to Work Day">{{cite episode
 	|title=Take Your Daughter to Work Day (Deleted Scene)
 	|episodelink=Take Your Daughter to Work Day (The Office)
 	|credits= 
@@ -89,7 +89,7 @@ Jim enjoys [[Wikipedia:Cycling|cycling]],<ref name="Email Surveillance">{{cite e
 	|series=The Office
         |serieslink=The Office (US TV series)
         |network=NBC
-	}}</ref> He also lists [[Wikipedia:Soft-shell crab|soft-shell crab]] as his favorite food.<ref name="Halloween">{{cite episode
+	}}</> He also lists [[Wikipedia:Soft-shell crab|soft-shell crab]] as his favorite food.< name="Halloween">{{cite episode
 	|title=Halloween
 	|episodelink=Halloween (The Office)
 	|credits= 
@@ -97,8 +97,8 @@ Jim enjoys [[Wikipedia:Cycling|cycling]],<ref name="Email Surveillance">{{cite e
 	|series=The Office
         |serieslink=The Office (US TV series)
         |network=NBC
-	}}</ref>
-Jim has noted that basketball "Was kind of [his] thing" in high school.<ref name="Basketball">{{cite episode
+	}}</>
+Jim has noted that basketball "Was kind of [his] thing" in high school.< name="Basketball">{{cite episode
 	|title=Basketball
 	|episodelink=Basketball (The Office episode)
 	|credits= 
@@ -106,16 +106,16 @@ Jim has noted that basketball "Was kind of [his] thing" in high school.<ref name
 	|series=The Office
         |serieslink=The Office (US TV series)
         |network=NBC
-	}}</ref> Although no high school is specifically named by Jim, both [[Clients of Dunder Mifflin#Dunmore High School|Dunmore High School]] (as evidenced in a deleted scene from "[[Product Recall]]" where, during a business visit, he asks a high school student about a former teacher) and West Scranton High School (as evidenced when, during "[[Email Surveillance]]," Pam holds up his yearbook displaying their mascot name, ''Invaders'', across the front) are referenced in separate episodes. In the episode "[[Dwight's Speech]]," Jim tells Dwight that he majored in Public Speaking, however, he later denies this.<ref>"[[Dwight's Speech]]"</ref> Jim began working at Dunder Mifflin between 1998 and 1999 (as evidenced in "[[Pilot]]" and "[[The Merger]]," where Jim says that he still loves when Michael says, "Wazzup!" crazily after seven years, and that on his first day at work Michael played an orientation video which parodied ''[[Wikipedia:The Blair Witch Project|The Blair Witch Project]]'').<ref name="The Merger">{{cite episode|title=The Merger|episodelink=The Merger|credits= |airdate=|series=The Office|serieslink=The Office (US TV series)|network=NBC}}</ref>
+	}}</> Although no high school is specifically named by Jim, both [[Clients of Dunder Mifflin#Dunmore High School|Dunmore High School]] (as evidenced in a deleted scene from "[[Product Recall]]" where, during a business visit, he asks a high school student about a former teacher) and West Scranton High School (as evidenced when, during "[[Email Surveillance]]," Pam holds up his yearbook displaying their mascot name, ''Invaders'', across the front) are erenced in separate episodes. In the episode "[[Dwight's Speech]]," Jim tells Dwight that he majored in Public Speaking, however, he later denies this.<</> Jim began working at Dunder Mifflin between 1998 and 1999 (as evidenced in "[[Pilot]]" and "[[The Merger]]," where Jim says that he still loves when Michael says, "Wazzup!" crazily after seven years, and that on his first day at work Michael played an orientation video which parodied ''[[Wikipedia:The Blair Witch Project|The Blair Witch Project]]'').<</>
 
-In several episodes, it is stated that Jim is a fan of the [[Wikipedia:Philadelphia Phillies|Philadelphia Phillies]], [[Wikipedia:Philadelphia Eagles|Philadelphia Eagles]], and the [[Wikipedia:Philadelphia 76ers|Philadelphia 76ers]]. Jim appears to be a fan of [[Wikipedia:Hip-hop|hip-hop]], specifically [[Wikipedia:Eminem|Eminem]], as Pam mentions him listening to the ''[[Wikipedia:8 Mile: Music from and Inspired by the Motion Picture|8 Mile]]'' soundtrack on his iPod in "[[The Delivery]]." He also appears to like [[Wikipedia:Alternative rock music|alternative rock]], [[Wikipedia:Soft rock|soft rock]], and the band [[Wikipedia:Snow Patrol|Snow Patrol]], as Jim uses "[[Wikipedia:Open Your Eyes (Snow Patrol song)|Open Your Eyes]]" as the background music for the video that he shows to [[Pam Beesly|Pam]] of their past history on the documentary in the episode "[[A.A.R.M.]]" Apparently, he is of [[Wikipedia:Scottish people|Scottish]] descent, as in "[[Niagara]]" his father can be seen wearing a [[Wikipedia:Kilt|kilt]] to Jim's wedding to Pam.<ref name="Niagara (The Office)">{{cite episode|title=Niagara|episodelink=Niagara|credits= |airdate=|series=The Office|serieslink=The Office (US TV series)|network=NBC}}</ref> In the episode "Weight Loss," it is revealed that his screen name for [[Wikipedia:AOL Instant Messenger|AIM]] is JIM9334.<ref name="Weight Loss" /> Like his father, Jim suffers from high blood pressure, as revealed in the episode "[[Pam's Replacement]]."
+In several episodes, it is stated that Jim is a fan of the [[Wikipedia:Philadelphia Phillies|Philadelphia Phillies]], [[Wikipedia:Philadelphia Eagles|Philadelphia Eagles]], and the [[Wikipedia:Philadelphia 76ers|Philadelphia 76ers]]. Jim appears to be a fan of [[Wikipedia:Hip-hop|hip-hop]], specifically [[Wikipedia:Eminem|Eminem]], as Pam mentions him listening to the ''[[Wikipedia:8 Mile: Music from and Inspired by the Motion Picture|8 Mile]]'' soundtrack on his iPod in "[[The Delivery]]." He also appears to like [[Wikipedia:Alternative rock music|alternative rock]], [[Wikipedia:Soft rock|soft rock]], and the band [[Wikipedia:Snow Patrol|Snow Patrol]], as Jim uses "[[Wikipedia:Open Your Eyes (Snow Patrol song)|Open Your Eyes]]" as the background music for the video that he shows to [[Pam Beesly|Pam]] of their past history on the documentary in the episode "[[A.A.R.M.]]" Apparently, he is of [[Wikipedia:Scottish people|Scottish]] descent, as in "[[Niagara]]" his father can be seen wearing a [[Wikipedia:Kilt|kilt]] to Jim's wedding to Pam.<</> In the episode "Weight Loss," it is revealed that his screen name for [[Wikipedia:AOL Instant Messenger|AIM]] is JIM9334.< name="Weight Loss" /> Like his father, Jim suffers from high blood pressure, as revealed in the episode "[[Pam's Replacement]]."
 
-Though Jim loves to play pranks on Dwight, he is shown to have some things in common with his nemesis, such as a knowledge of comic books and an appreciation for the sci-fi/fantasy genre; as demonstrated in "[[Take Your Daughter to Work Day]]" when Jim and Dwight correct Michael on details about [[Wikipedia:Superman|Superman]] and [[Wikipedia:Aquaman|Aquaman]].<ref name="Take Your Daughter To Work Day">{{cite episode|title=Take Your Daughter To Work Day|episodelink=Take Your Daughter To Work Day|credits= |airdate=|series=The Office|serieslink=The Office (US TV series)|network=NBC}}</ref> Despite their frequent conflicts, Jim and Dwight are also shown to be an extremely competent sales team in "[[Traveling Salesmen]]."<ref name="Traveling Salesmen">{{cite episode|title=Traveling Salesmen|episodelink=Traveling Salesmen|credits= |airdate=|series=The Office|serieslink=The Office (US TV series)|network=NBC}}</ref>
+Though Jim loves to play pranks on Dwight, he is shown to have some things in common with his nemesis, such as a knowledge of comic books and an appreciation for the sci-fi/fantasy genre; as demonstrated in "[[Take Your Daughter to Work Day]]" when Jim and Dwight correct Michael on details about [[Wikipedia:Superman|Superman]] and [[Wikipedia:Aquaman|Aquaman]].<</> Despite their frequent conflicts, Jim and Dwight are also shown to be an extremely competent sales team in "[[Traveling Salesmen]]."<</>
 
 ==Character history ==
 
 ===Seasons 1 3===
-Jim Halpert is first introduced in the "[[Pilot]]." He is adamant throughout the series about his job as a salesman at [[Dunder Mifflin|Dunder Mifflin Paper]] being a temporary one, saying, "Right now, this is just a job. If I advance any higher, this would be my career. And if this were my career, I'd have to throw myself in front of a train."<ref name="firstjob">Wolgemuth, Liz (2008-03-24), [https://www.usnews.com/articles/business/careers/2008/03/13/jim-halpert-and-the-first-job-trap.html "Breaking Out of the First-Job Trap"] {{webarchive|url=https://web.archive.org/web/20080509122255/http://www.usnews.com/articles/business/careers/2008/03/13/jim-halpert-and-the-first-job-trap.html|date=2008-05-09}}. ''[[U.S. News & World Report]]''. '''144''' (9):56-58 (accessed on 2008-08-23)</ref> This outlook is most apparent in the elaborate pranks that he plays on his workmates, primarily Dwight, as well as his sarcastic remarks and facial expressions to the film crew and his provoking comments during often ridiculous employee meetings. However, he succeeds professionally and is consistently one of the best salesmen. This is presumably because, as Pam mentioned later, "everybody likes Jim."
+Jim Halpert is first introduced in the "[[Pilot]]." He is adamant throughout the series about his job as a salesman at [[Dunder Mifflin|Dunder Mifflin Paper]] being a temporary one, saying, "Right now, this is just a job. If I advance any higher, this would be my career. And if this were my career, I'd have to throw myself in front of a train."<</> This outlook is most apparent in the elaborate pranks that he plays on his workmates, primarily Dwight, as well as his sarcastic remarks and facial expressions to the film crew and his provoking comments during often ridiculous employee meetings. However, he succeeds professionally and is consistently one of the best salesmen. This is presumably because, as Pam mentioned later, "everybody likes Jim."
 His facial expressions have later been dubbed the  Jim Look. 
 
 A major part of Jim Halpert's character is his relationship with [[Pam Beesly]], which is often the subject of office speculation. This is made worse by the fact that Pam was engaged to [[Roy Anderson]], a Dunder Mifflin warehouse worker. Throughout the first two seasons, incidents such as Pam falling asleep on Jim's shoulder in "[[Diversity Day]]" and drunkenly kissing him in "[[The Dundies]]" show a possibility of the feelings being mutual; however, Pam never acts on them and she remains engaged to Roy. On one occasion, in "[[The Fight]]," his flirting with her goes a little too far, when Meredith looks over to see him play-fighting with her, causing her to shut him down immediately, startling him with her abruptness, though she eventually forgives him. He becomes so upset when he hears Pam discuss wedding details that he calls a travel agency and schedules a trip to [[Wikipedia:Australia|Australia]], deliberately making himself unable to attend the wedding. Feeling bored by his job, tortured by his situation with Pam, and guilty about a stack of complaints Dwight has filed against him, Jim investigates a transfer to Dunder Mifflin's branch in [[Dunder Mifflin Stamford|Stamford, Connecticut]]. In the season-two finale, "[[Casino Night]]," he confesses his love for Pam in the parking lot. Pam, whose wedding to Roy was planned out and just weeks away, clearly shows her anguish but gently turns him down. Jim tearfully walks away, later kisses her in the office, and the season ends. In the season-three premiere "[[Gay Witch Hunt]]," it is revealed that he did transfer to Stamford despite the fact that Pam has called off her wedding and he clearly still harbors intense feelings for her. His reason is later stated as "It's just, I kinda put it all on the line. Twice. And she said no. Twice." in "[[The Convention]]."
@@ -166,7 +166,7 @@ In "[[Training Day]]," Jim and Pam try to make a good first impression on their 
 
 In "[[Dwight K. Schrute, (Acting) Manager]]," Jo Bennett offers Jim the position of interim manager after Deangelo is gone, which Jim rejects. Jo later calls Jim as "the only man who turned me down."
 
-In "[[Search Committee]]," Jim is one of three people scouting for Michael's (and Deangelo's) replacement. Creed is the interim regional manager based on seniority so this speeds up the process (since Creed is incompetent).<ref name="Search Committee">{{cite episode|title=Search Committee |episodelink=Search Committee |credits= |airdate= |series=The Office |serieslink=The Office (U.S. TV series) |network=NBC}}</ref>
+In "[[Search Committee]]," Jim is one of three people scouting for Michael's (and Deangelo's) replacement. Creed is the interim regional manager based on seniority so this speeds up the process (since Creed is incompetent).<</>
 
 ===Season 8 9 ===
 Early in season 8, it is revealed that Jim will be a father for the second time as Pam is expecting a son (where Pam jokingly calls him "Little Michael Scott"). Pam and Jim were blessed with the off-camera delivery of Philip Halpert around the midseason mark, and Jim brought Philip into the office to try and mend relations with his angry co-workers (he had lied about spending a full week on jury duty, having actually been dismissed on the first morning, and ended up spending the week helping an overwhelmed Pam take care of their two young children). Jim also had to deal with a crush from co-worker [[Cathy Simms]], who unsuccessfully tried to seduce him while they were part of the Sabre Store team in Tallahassee.
@@ -192,14 +192,14 @@ Jim has appeared in every single episode of ''The Office'' with the exception of
 {{Appearances7|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
 
 ==Reception==
-In the media, Jim is sometimes called an everyguy.<ref>Endelman, Michael, Greenblatt, Leah, Kim, Wook, Soll, Lindsay, Stack, Tim, Tucker (not Tucker), Hannah (2006-12-08), [http://www.ew.com/ew/article/0,,1564847,00.html "What to Get Your JIM HALPERT"]. ''[[Entertainment Weekly]]''. '''910''':44</ref> In her article "Breaking Out of the First-Job Trap" for ''U.S. News and World Report'', Liz Wolgemuth used Jim's character as a template for an essay on under-motivated, young, college grads.<ref name="firstjob" /> In an article on stereotypical office worker profiles, Jim was identified as the worker who is "drifting along in a job, [while] you put off asking yourself hard questions about career plans."<ref>HOW TO SUCCEED AT 'THE OFFICE' Preview By: Palmer, Kimberly. U.S. News & World Report, 3/24/2008, Vol. 144 Issue 9, p53-54</ref>
+In the media, Jim is sometimes called an everyguy.<</> In her article "Breaking Out of the First-Job Trap" for ''U.S. News and World Report'', Liz Wolgemuth used Jim's character as a template for an essay on under-motivated, young, college grads.<</>
 
 ==Trivia==
 *Jim is somewhat skilled with Photoshop.
 *Jim's classic lunch is a ham and cheese.
 *'''Spoiler''': <span class="mw-collapsible mw-collapsed"><span class="mw-collapsible-content">Jim later moves with Pam to Austin, Texas.</span></span>
 
-{{reflist|3}}
+{{list|3}}
 {{Wikipedia}}
 {{Main Characters}}
 [[Category:Characters]]
