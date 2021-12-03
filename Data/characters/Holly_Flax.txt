@@ -1,4 +1,4 @@
-{{Quote|text=Holly is sweet and simple, like a lady baker. I would not be surprised to find out that she had worked in a bakery before coming here. She has that kind of warmth. I m pretty sure she s baked on a professional level.|saidby=Michael Scott|reference=[[Goodbye, Toby|Goodbye, Toby]]}}
+{{Quote|text=Holly is sweet and simple, like a lady baker. I would not be surprised to find out that she had worked in a bakery before coming here. She has that kind of warmth. I m pretty sure she s baked on a professional level.|saidby=Michael Scott|erence=[[Goodbye, Toby|Goodbye, Toby]]}}
 {{Character
 |name = Holly Scott
 |image = Holly Season 7.jpg
@@ -32,7 +32,7 @@ When Toby is preparing to move to Costa Rica, Holly is hired as his replacement.
 [[File:Holly2.jpg|thumb]]
 
 ==Season 5==
-Holly's full name is given by the nameplate on her desk, which reads ''Hollis "Holly" P. Flax''. Michael had been courting Holly in the first episode of the season; Holly continues to be a "major dork" (in the words of [[Jim Halpert]]) just like Michael. Holly learns that Kevin is not actually mentally challenged, as she had been duped into believing during season 4 by Dwight. Holly practices yoga, so [[Oscar Martinez|Oscar]] refers Holly to a yoga class (with an attractive teacher). Holly agrees to a date with him, much to Michael's dismay. Holly buys tickets for Counting Crows, but the yoga instructor goes back on his word and doesn't call her after he promised he would. Michael, who does not pick up on several hints that Holly has given him (about attending the concert with her), purchases the tickets from her and rips them to pieces.{{5x01}} While Holly appears to have a higher sense of morality than Michael (and has shown disapproval toward some of his ideas and schemes), she ultimately considers him to be her best friend in the office. It is also revealed that she was picked on as a child just like Michael and that she grew up in Des Moines, Iowa.{{5x02}}
+Holly's full name is given by the nameplate on her desk, which reads ''Hollis "Holly" P. Flax''. Michael had been courting Holly in the first episode of the season; Holly continues to be a "major dork" (in the words of [[Jim Halpert]]) just like Michael. Holly learns that Kevin is not actually mentally challenged, as she had been duped into believing during season 4 by Dwight. Holly practices yoga, so [[Oscar Martinez|Oscar]] ers Holly to a yoga class (with an attractive teacher). Holly agrees to a date with him, much to Michael's dismay. Holly buys tickets for Counting Crows, but the yoga instructor goes back on his word and doesn't call her after he promised he would. Michael, who does not pick up on several hints that Holly has given him (about attending the concert with her), purchases the tickets from her and rips them to pieces.{{5x01}} While Holly appears to have a higher sense of morality than Michael (and has shown disapproval toward some of his ideas and schemes), she ultimately considers him to be her best friend in the office. It is also revealed that she was picked on as a child just like Michael and that she grew up in Des Moines, Iowa.{{5x02}}
 
 Michael tells Holly he will treat her poorly in front of Jan during her baby shower because he has a vested interest in Jan's baby, which is not his (Sperm Donor). He expected Jan to still be pregnant, but she arrives with the baby already born. Nevertheless, Michael still treats Holly poorly. Despite being told of this, she is shown to be uncomfortable with Michael's attitude toward her. In a deleted scene, when Michael is treating her poorly, she tells the camera crew she sees what life was like in the office for Toby, who is on speakerphone agreeing with her. However, despite witnessing Michael's treatment of Holly throughout the day, Jan notices the two of them have a lot in common after Holly makes jokes in front of her. Jan then orders Michael not to date Holly before driving away. This, in addition to feeling no connection with Jan's baby, prompts Michael to hug Holly for treating her poorly and ask her out on a date, which she accepts, visibly moved.{{5x03}}[[File:Holly4.jpg|thumb]]
 
@@ -80,7 +80,7 @@ Holly is the female version of Michael:
 * She dislikes Toby somewhat, as she jokingly expresses disdain for him in "Goodbye Toby", however, she does not appear to be aware of the extent to which Michael mistreats him and Michael even attempted to hide this from her in the same episode.
 
 == Behind the Scenes ==
-* Holly was introduced to be the first person who actually ''liked'' Michael, allowing his character to mature. She was not intended to be his life partner, and was planned to be in only six episodes.<ref name="ohoto:episode9">Baumgartner, Brian. [https://open.spotify.com/episode/38lbjh2RYRI5R4kfP780LO When We Said Goodbye To Steve], ''[[An Oral History of the Office]]'', Episode 9. August 25, 2020.</ref>
+* Holly was introduced to be the first person who actually ''liked'' Michael, allowing his character to mature. She was not intended to be his life partner, and was planned to be in only six episodes.<</>
 
 ==Appearances==
 {{Appearances4|14=yes}}
@@ -97,7 +97,7 @@ Holly is the female version of Michael:
 * "[[Finale]]"
 
 ==References==
-<references/>
+<erences/>
 {{Main Characters}}
 [[Category:Dunder Mifflin employees]]
 [[Category:Characters]]

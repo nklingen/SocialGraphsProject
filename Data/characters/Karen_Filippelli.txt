@@ -82,7 +82,7 @@ For social occasions, she will wear a dress when appropriate. ("[[Cocktails]]", 
 * Karen's name has a cameo mention in "[[The List]]" inside of a notebook that Dwight once used to divide his fellow employees into lists to plan for various emergency situations. Among lists that detailed how to divide into life boats or life rafts as well as a list that Dwight describes as "who would eat who in an ''Alive'' situation."
 
 ==Behind the scenes==
-* Greg Daniels got Karen's last name from NBC executive Rachel Filippelli.<ref name="officeladies-thecoup">Kinsey, Angela and Jenna Fischer. [https://officeladies.com/episodes/2020/06/10/episode-31-the-coup Episode 31: The Coup], ''Office Ladies'' podcast, June 10, 2020.</ref>
+* Greg Daniels got Karen's last name from NBC executive Rachel Filippelli.<</>
 
 ==Appearances==
 {{Appearances3|yes||yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes|yes}}
@@ -91,7 +91,7 @@ For social occasions, she will wear a dress when appropriate. ("[[Cocktails]]", 
 {{Appearances7|17=yes}}
 
 ==References==
-<references/>
+<erences/>
 {{Main Characters}}
 [[Category:Characters]]
 [[Category:Dunder Mifflin employees]]
