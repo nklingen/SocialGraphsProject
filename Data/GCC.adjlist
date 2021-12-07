@@ -1,5 +1,5 @@
-#C:\Users\blanc\Anaconda3\lib\site-packages\ipykernel_launcher.py -f C:\Users\blanc\AppData\Roaming\jupyter\runtime\kernel-9482ad9f-8f84-4e27-9e8d-4d22cc208782.json
-# GMT Wed Nov 24 16:17:29 2021
+#/Users/natashaklingenbrunn/opt/anaconda3/envs/social_graphs/lib/python3.8/site-packages/ipykernel_launcher.py --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"f0a7f615-7f2a-45b4-afb6-ca5135abfe5d" --shell=9002 --transport="tcp" --iopub=9004 --f=/var/folders/q0/40pnfnf56wd0kqq1vhhltms40000gn/T/tmp-21786UroTCNPrMYcs.json
+# GMT Sun Dec  5 22:57:54 2021
 # 
 Andy Bernard Erin Hannon Angela Martin Unnamed Cousin Walter Bernard Jr. Walter Bernard Sr. Ellen Bernard Jim Halpert Robert California Michael Scott Deangelo Vickers Nellie Bertram David Wallace Josh Porter Ryan Howard Gabe Lewis Alice Dwight Schrute Toby Flenderson Cathy Simms Stanley Hudson Jo Bennett Nick Jamie Garbage Bob Vance Pete Miller Jan Levinson Todd Packer Carla Fern
 Erin Hannon Andy Bernard Gabe Lewis Pete Miller Reed Erin's Mother Erin's Father Pam Beesly Dawn Tinsley Kelly Kapoor Michael Scott Dwight Schrute Ryan Howard Charles Miner Jim Halpert Irene
@@ -31,7 +31,7 @@ Pete Miller Clark Green Kelly Kapoor David Wallace Alice Robert Lipton
 Jan Levinson Urkel Grue Michael Scott Clark Green Astrid Levinson David Wallace Carol Stills Jim Halpert Oscar Martinez Dwight Schrute Pam Beesly Josh Porter Martin Nash Ryan Howard Jasmine Windsong Andy Bernard
 Todd Packer Chris Finch Jan Levinson
 Carla Fern Andy Bernard
-Robert Lipton Oscar Martinez Angela Martin Deangelo Vickers
+Robert Lipton Oscar Martinez Angela Martin Wesley Silver Deangelo Vickers
 Phillip Schrute Angela Martin Dwight Schrute Oscar Martinez Robert Lipton
 Rachael Martin
 Charles Miner Ryan Howard David Wallace Dwight Schrute Michael Scott Jim Halpert Angela Martin Kelly Kapoor
@@ -214,6 +214,7 @@ Michael's mother Holly Flax
 Mikela Lasker Michael Scott
 Paul Faust Creed Bratton
 Pizza Delivery Kid Michael Scott Dwight Schrute Kevin Malone Oscar Martinez Andy Bernard Ryan Howard
+Wesley Silver Robert Lipton
 Rolf Ahl Dwight Schrute Charles Miner David Wallace
 Sensei Billy David Wallace
 Seth (Cece's Godfather) Jim Halpert Pam Beesly Cecelia Halpert
@@ -221,4 +222,3 @@ Steve (actor friend) Jim Halpert Dwight Schrute Phillip Halpert
 Ted Kassar Josh Porter Jim Halpert Michael Scott
 Tiffany Andy Bernard Pam Beesly
 W.B. Jones Kevin Malone Andy Bernard
-Wesley Silver Robert Lipton
